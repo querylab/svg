@@ -18,7 +18,7 @@
 
 Lazywarden is a Python-based automation tool designed to back up your vault data, including Bitwarden attachments, and upload it to multiple cloud storage services. It supports notifications across multiple platforms and includes an AES encrypted backup feature with a key derived using Argon2 to ensure the security of your data.
 
-## <span style="display: flex; align-items: center;"><img src="https://raw.githubusercontent.com/querylab/svg/main/start.gif" width="20" style="vertical-align: middle; margin-right: 10px;">Features</span>
+## <span style="display: flex; align-items: center;"><img src="https://raw.githubusercontent.com/querylab/svg/main/start.gif" width="25" style="vertical-align: middle; margin-right: 10px;">Features</span>
 
 - 🔒 **Top-Level Security**: Protect your data with AES-256 encryption and Argon2 key derivation for maximum security.
 - ☁️ **Multi-Cloud Compatibility**: Store your backups in multiple cloud storage services like Dropbox, Google Drive, pCloud, MEGA, and via SMTP.
