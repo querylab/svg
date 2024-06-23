@@ -350,7 +350,7 @@ GOOGLE_FOLDER_ID=1qtV4vfIjmXyhDdzIzJ6RiCc-b0M22vsF
 
 
 
-#### 6. Tree Structure 🌳
+### 6. Tree Structure 🌳
 
 ``` PYTHON
 
@@ -496,7 +496,7 @@ timedatectl set-timezone America/New_York
 ```
 
 
-#### 9. (Optional) Cron Job for Python 🐍
+### 9. (Optional) Cron Job for Python 🐍
 
 To automatically run the backup script in the background using cron, follow these steps:
 
@@ -539,7 +539,7 @@ crontab -l
 
 
 
-#### 9. (Optional) Docker Compose 🐳
+### 9. (Optional) Docker Compose 🐳
 
 The Docker container will run the `main.py` script every 24 hours to back up Bitwarden and upload it to the configured cloud services. Notifications will be sent to the specified services in case of success or failure. You can modify the backup frequency according to your needs, such as monthly, daily, or hourly.
 
