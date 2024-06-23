@@ -389,7 +389,7 @@ lazywarden/
 ```
 
 
-## 6. <img src="https://raw.githubusercontent.com/querylab/svg/main/toolbox1.gif" width="35" style="vertical-align: middle;"> Ubuntu Configuration
+### 6. <img src="https://raw.githubusercontent.com/querylab/svg/main/toolbox1.gif" width="35" style="vertical-align: middle;"> Ubuntu Configuration
 
 - Run the script to install all system dependencies and requirements
  
@@ -449,7 +449,7 @@ timedatectl set-timezone America/Chicago
 
 ---
 
-## 7. <img src="https://raw.githubusercontent.com/querylab/svg/main/toolbox1.gif" width="35" style="vertical-align: middle;"> Debian Configuration
+### 7. <img src="https://raw.githubusercontent.com/querylab/svg/main/toolbox1.gif" width="35" style="vertical-align: middle;"> Debian Configuration
 
  - Run the script to install all system dependencies and requirements:
  
@@ -608,7 +608,7 @@ docker compose up -d
 - **Important Note:** If you have attachments in your Bitwarden account that are very large (MP4 videos, MP3s, high resolution photos, etc.), and the total size of your account exceeds 100MB, the backup process may take some time to complete. The larger the size of the backup file, the longer it will take to upload to the cloud. However, local storage of the backup is much faster.
 - Note that if your account contains many attachments, this could significantly influence the total time of the backup process.
 
-### 12. <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" style="vertical-align: middle;">Motivations
+### 12. <span style="display: inline-flex; align-items: center;"> <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="32" style="vertical-align: middle; margin-right: 10px;"> Motivations </span>
 
 - I was looking for an automated solution to manage Bitwarden backups without manual intervention or exposure of sensitive data. After trying several complicated and cumbersome tools, I discovered Bitwarden Secret Manager, which keeps secrets within the same platform. With Lazywarden, I automate the management of secrets and backups through Bitwarden to then uploud to Google Drive, Dropbox, pCloud and MEGA, plus integrate notifications with Telegram, Discord, Slack and backup tracking through Todoist. 
 
