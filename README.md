@@ -25,27 +25,31 @@ Lazywarden is a Python-based automation tool designed to back up your vault data
 - 🔔 **Real-Time Alerts**: Receive instant notifications through Discord, Todoist, Telegram, and Slack to stay informed.
 - 🐳 **Easy Deployment**: Quick and effortless setup with Docker Compose, ensuring a consistent environment.
 - 🔄 **Complete Automation**: Perform daily backups automatically without any manual intervention, keeping your data safe at all times.
-## Demo <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="28">
+## Demo <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30" style="vertical-align: middle;">
+
 
 
 
 <img src="https://raw.githubusercontent.com/querylab/svg/main/lazylazy.gif" />
+
+
 
 <img src="https://raw.githubusercontent.com/querylab/svg/main/lazyuploud.gif"/>
 
 
 
 
-#### SMTP Notification
+#### SMTP Notification <img src="https://raw.githubusercontent.com/querylab/svg/main/smtp.gif" width="20" style="vertical-align: middle;">
 
 <a href="https://imgur.com/xZREtUL"><img src="https://i.imgur.com/xZREtUL.png" title="source: imgur.com" /></a>
-#### Slack Notification
+#### Slack Notification <img src="https://raw.githubusercontent.com/querylab/svg/main/slack.gif" width="20" style="vertical-align: middle;">
 
 <a href="https://imgur.com/TgC6ZmA"><img src="https://i.imgur.com/TgC6ZmA.png" title="source: imgur.com" /></a>
-#### Discord Notification
+
+#### Discord Notification <img src="https://raw.githubusercontent.com/querylab/svg/main/discord.gif" width="20" style="vertical-align: middle;">
 
 <a href="https://imgur.com/7XnwmpQ"><img src="https://i.imgur.com/7XnwmpQ.png" title="source: imgur.com" /></a>
-#### Telegram Notification
+#### Telegram Notification <img src="https://raw.githubusercontent.com/querylab/svg/main/telegram.gif" width="20" style="vertical-align: middle;">
 
 <a href="https://imgur.com/nKBCp4x"><img src="https://i.imgur.com/nKBCp4x.png" title="source: imgur.com" /></a>
 
@@ -608,3 +612,8 @@ docker compose up -d
 - I was looking for an automated solution to manage Bitwarden backups without manual intervention or exposure of sensitive data. After trying several complicated and cumbersome tools, I discovered Bitwarden Secret Manager, which keeps secrets within the same platform. With Lazywarden, I automate the management of secrets and backups through Bitwarden to then uploud to Google Drive, Dropbox, pCloud and MEGA, plus integrate notifications with Telegram, Discord, Slack and backup tracking through Todoist. 
 
 - If you like this project, please consider giving it a ⭐
+
+<div style="text-align: center;">
+    <img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="150" />
+</div>
+
