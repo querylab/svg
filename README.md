@@ -39,17 +39,17 @@ Lazywarden is a Python-based automation tool designed to back up your vault data
 
 
 
-#### SMTP Notification <img src="https://raw.githubusercontent.com/querylab/svg/main/smtp.gif" width="20" style="vertical-align: middle;">
+####  <img src="https://raw.githubusercontent.com/querylab/svg/main/smtp.gif" width="20" style="vertical-align: middle;"> SMTP Notification
 
 <a href="https://imgur.com/xZREtUL"><img src="https://i.imgur.com/xZREtUL.png" title="source: imgur.com" /></a>
-#### Slack Notification <img src="https://raw.githubusercontent.com/querylab/svg/main/slack.gif" width="20" style="vertical-align: middle;">
+#### <img src="https://raw.githubusercontent.com/querylab/svg/main/slack.gif" width="20" style="vertical-align: middle;"> Slack Notification
 
 <a href="https://imgur.com/TgC6ZmA"><img src="https://i.imgur.com/TgC6ZmA.png" title="source: imgur.com" /></a>
 
-#### Discord Notification <img src="https://raw.githubusercontent.com/querylab/svg/main/discord.gif" width="20" style="vertical-align: middle;">
+#### <img src="https://raw.githubusercontent.com/querylab/svg/main/discord.gif" width="20" style="vertical-align: middle;"> Discord Notification
 
 <a href="https://imgur.com/7XnwmpQ"><img src="https://i.imgur.com/7XnwmpQ.png" title="source: imgur.com" /></a>
-#### Telegram Notification <img src="https://raw.githubusercontent.com/querylab/svg/main/telegram.gif" width="20" style="vertical-align: middle;">
+#### <img src="https://raw.githubusercontent.com/querylab/svg/main/telegram1.gif" width="40" > Telegram Notification
 
 <a href="https://imgur.com/nKBCp4x"><img src="https://i.imgur.com/nKBCp4x.png" title="source: imgur.com" /></a>
 
@@ -60,7 +60,7 @@ Lazywarden is a Python-based automation tool designed to back up your vault data
     - ✅ Ubuntu
     - ✅ Debian
 
-## Installation <img src="https://raw.githubusercontent.com/querylab/svg/main/rocket1.gif" width="40" style="vertical-align: middle;">
+## <img src="https://raw.githubusercontent.com/querylab/svg/main/rocket1.gif" width="50" style="vertical-align: middle;"> Installation 
 
 #### 1. Clone the repository
 
