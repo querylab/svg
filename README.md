@@ -384,7 +384,7 @@ lazywarden/
 ```
 
 
-##### 7. Ubuntu Configuration 🛠️
+## 7. Ubuntu Configuration 🛠️
 
 - Run the script to install all system dependencies and requirements
  
@@ -444,7 +444,7 @@ timedatectl set-timezone America/Chicago
 
 ---
 
-##### 7. Debian Configuration 🛠️
+## 7. Debian Configuration 🛠️
 
  - Run the script to install all system dependencies and requirements:
  
@@ -496,7 +496,7 @@ timedatectl set-timezone America/New_York
 ```
 
 
-##### 9. (Optional) Cron Job for Python 🐍
+#### 9. (Optional) Cron Job for Python 🐍
 
 To automatically run the backup script in the background using cron, follow these steps:
 
@@ -539,7 +539,7 @@ crontab -l
 
 
 
-##### 9. (Optional) Docker Compose 🐳
+#### 9. (Optional) Docker Compose 🐳
 
 The Docker container will run the `main.py` script every 24 hours to back up Bitwarden and upload it to the configured cloud services. Notifications will be sent to the specified services in case of success or failure. You can modify the backup frequency according to your needs, such as monthly, daily, or hourly.
 
@@ -608,16 +608,3 @@ docker compose up -d
 - I was looking for an automated solution to manage Bitwarden backups without manual intervention or exposure of sensitive data. After trying several complicated and cumbersome tools, I discovered Bitwarden Secret Manager, which keeps secrets within the same platform. With Lazywarden, I automate the management of secrets and backups through Bitwarden to then uploud to Google Drive, Dropbox, pCloud and MEGA, plus integrate notifications with Telegram, Discord, Slack and backup tracking through Todoist. 
 
 - If you like this project, please consider giving it a ⭐
-
-
-
-
-
-
-
-
-
-
-
-
-
