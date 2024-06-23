@@ -14,11 +14,11 @@
 </div>
 
 
-## 🔐🏛️ Lazywarden: Your Automated, Secure, and Multi-Cloud Bitwarden Backup System
+## <img src="https://raw.githubusercontent.com/querylab/svg/main/lcok1.gif" width="50" style="vertical-align: middle;"> <img src="https://raw.githubusercontent.com/querylab/svg/main/home.gif" width="50" style="vertical-align: middle;">Lazywarden: Your Automated, Secure, and Multi-Cloud Bitwarden Backup System
 
 Lazywarden is a Python-based automation tool designed to back up your vault data, including Bitwarden attachments, and upload it to multiple cloud storage services. It supports notifications across multiple platforms and includes an AES encrypted backup feature with a key derived using Argon2 to ensure the security of your data.
 
-## ⭐ Key Features
+## <img src="https://raw.githubusercontent.com/querylab/svg/main/start.gif" width="50" style="vertical-align: middle;"> Key Features
 
 - 🔒 **Top-Level Security**: Protect your data with AES-256 encryption and Argon2 key derivation for maximum security.
 - ☁️ **Multi-Cloud Compatibility**: Store your backups in multiple cloud storage services like Dropbox, Google Drive, pCloud, MEGA, and via SMTP.
@@ -26,8 +26,6 @@ Lazywarden is a Python-based automation tool designed to back up your vault data
 - 🐳 **Easy Deployment**: Quick and effortless setup with Docker Compose, ensuring a consistent environment.
 - 🔄 **Complete Automation**: Perform daily backups automatically without any manual intervention, keeping your data safe at all times.
 ## Demo <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30" style="vertical-align: middle;">
-
-
 
 
 <img src="https://raw.githubusercontent.com/querylab/svg/main/lazylazy.gif" />
@@ -39,10 +37,10 @@ Lazywarden is a Python-based automation tool designed to back up your vault data
 
 
 
-####  <img src="https://raw.githubusercontent.com/querylab/svg/main/email.gif" width="20" style="vertical-align: middle;"> SMTP Notification
+####  <img src="https://raw.githubusercontent.com/querylab/svg/main/email1.gif" width="20" style="vertical-align: middle;"> SMTP Notification
 
 <a href="https://imgur.com/xZREtUL"><img src="https://i.imgur.com/xZREtUL.png" title="source: imgur.com" /></a>
-#### <img src="https://raw.githubusercontent.com/querylab/svg/main/slack1.gif" width="20" style="vertical-align: middle;"> Slack Notification
+#### <img src="https://raw.githubusercontent.com/querylab/svg/main/slacke.gif" width="20" style="vertical-align: middle;"> Slack Notification
 
 <a href="https://imgur.com/TgC6ZmA"><img src="https://i.imgur.com/TgC6ZmA.png" title="source: imgur.com" /></a>
 
@@ -54,13 +52,13 @@ Lazywarden is a Python-based automation tool designed to back up your vault data
 <a href="https://imgur.com/nKBCp4x"><img src="https://i.imgur.com/nKBCp4x.png" title="source: imgur.com" /></a>
 
 
-## <img src="https://raw.githubusercontent.com/querylab/svg/main/computer.gif" width="50" style="vertical-align: middle;"> <img src="https://raw.githubusercontent.com/querylab/svg/main/setting.gif" width="50" style="vertical-align: middle;">  System Requirements
+## <img src="https://raw.githubusercontent.com/querylab/svg/main/server.gif" width="50" style="vertical-align: middle;"><img src="https://raw.githubusercontent.com/querylab/svg/main/process2.gif" width="50" style="vertical-align: middle;">System Requirements
 
 - **Operating System**: Compatible with major Linux distributions:
     - ✅ Ubuntu
     - ✅ Debian
 
-## <img src="https://raw.githubusercontent.com/querylab/svg/main/rocket3.gif" width="50" style="vertical-align: middle;"> Installation 
+## <img src="https://raw.githubusercontent.com/querylab/svg/main/rocket4.gif" width="50" style="vertical-align: middle;"> Installation 
 
 #### 1. Clone the repository
 
@@ -188,7 +186,7 @@ ORGANIZATION_ID=212A4880-22f9-1114-b00e-b1950234278ac
 ACCESS_TOKEN=0.345f5e9c-8730-4a4c-917b-b10000331f56.Oj4XzcyGFF22222L22l7LZL333A7VkwzV:e5mC4d11111117bS8/3EQ==
 ```
 
-### <img src="https://raw.githubusercontent.com/querylab/svg/main/alert.gif" width="45" style="vertical-align: middle;"> <img src="https://raw.githubusercontent.com/querylab/svg/main/caution.gif" width="45" style="vertical-align: middle;"> **Attention: Security Critical Variables** <img src="https://raw.githubusercontent.com/querylab/svg/main/lock.gif" width="50" style="vertical-align: middle;">   
+### <img src="https://raw.githubusercontent.com/querylab/svg/main/alert1.gif" width="45" style="vertical-align: middle;"> <img src="https://raw.githubusercontent.com/querylab/svg/main/cone-unscreen.gif" width="45" style="vertical-align: middle;"> **Attention: Security Critical Variables** <img src="https://raw.githubusercontent.com/querylab/svg/main/lcok1.gif" width="50" style="vertical-align: middle;">   
 
 
 ``` BASH
@@ -354,7 +352,7 @@ GOOGLE_FOLDER_ID=1qtV4vfIjmXyhDdzIzJ6RiCc-b0M22vsF
 
 
 
-### 6. Tree Structure <img src="https://raw.githubusercontent.com/querylab/svg/main/tree.gif" width="40" style="vertical-align: middle;">
+### <img src="https://raw.githubusercontent.com/querylab/svg/main/tree2.gif" width="50" style="vertical-align: middle;"> Tree Structure 
 
 ``` PYTHON
 
@@ -388,7 +386,7 @@ lazywarden/
 ```
 
 
-## <img src="https://raw.githubusercontent.com/querylab/svg/main/tool.gif" width="40" style="vertical-align: middle;"> 7. Ubuntu Configuration
+## <img src="https://raw.githubusercontent.com/querylab/svg/main/toolbox1.gif" width="40" style="vertical-align: middle;"> Ubuntu Configuration
 
 - Run the script to install all system dependencies and requirements
  
@@ -448,7 +446,7 @@ timedatectl set-timezone America/Chicago
 
 ---
 
-## 7. <img src="https://raw.githubusercontent.com/querylab/svg/main/tool.gif" width="40" style="vertical-align: middle;"> Debian Configuration
+## <img src="https://raw.githubusercontent.com/querylab/svg/main/toolbox1.gif" width="40" style="vertical-align: middle;"> Debian Configuration
 
  - Run the script to install all system dependencies and requirements:
  
@@ -500,7 +498,7 @@ timedatectl set-timezone America/New_York
 ```
 
 
-### 9. <img src="https://raw.githubusercontent.com/querylab/svg/main/snake.gif" width="40" style="vertical-align: middle;"> Cron Job for Python
+### <img src="https://raw.githubusercontent.com/querylab/svg/main/snake1.gif" width="40" style="vertical-align: middle;"> Cron Job for Python
 
 To automatically run the backup script in the background using cron, follow these steps:
 
@@ -543,7 +541,7 @@ crontab -l
 
 
 
-### 9.  <img src="https://raw.githubusercontent.com/querylab/svg/main/whale.gif" width="40" style="vertical-align: middle;"> Docker Compose
+### <img src="https://raw.githubusercontent.com/querylab/svg/main/whale1.gif" width="40" style="vertical-align: middle;"> Docker Compose
 
 The Docker container will run the `main.py` script every 24 hours to back up Bitwarden and upload it to the configured cloud services. Notifications will be sent to the specified services in case of success or failure. You can modify the backup frequency according to your needs, such as monthly, daily, or hourly.
 
@@ -597,17 +595,17 @@ docker compose up -d
 
 - The `docker-compose.yml` file defines the lazywarden service and sets up environment variables and volumes for persistent storage.
 
-### <img src="https://raw.githubusercontent.com/querylab/svg/main/alert.gif" width="34" style="vertical-align: middle;"><img src="https://raw.githubusercontent.com/querylab/svg/main/cloud.gif" width="34" style="vertical-align: middle;"><img src="https://raw.githubusercontent.com/querylab/svg/main/tool2.gif" width="34" style="vertical-align: middle;"> Security Recommendation: Run in Local Environment 
+### <img src="https://raw.githubusercontent.com/querylab/svg/main/alert1.gif" width="34" style="vertical-align: middle;"><img src="https://raw.githubusercontent.com/querylab/svg/main/cloud1.gif" width="34" style="vertical-align: middle;"><img src="https://raw.githubusercontent.com/querylab/svg/main/services.gif" width="34" style="vertical-align: middle;"> Security Recommendation: Run in Local Environment 
 
 - For security, run this project only in a local environment within your personal network. This significantly reduces the risk of exposure to external attacks, ensuring that sensitive data and credentials remain protected within a controlled environment.
 
 
-###  <img src="https://raw.githubusercontent.com/querylab/svg/main/speaker.gif" width="40" style="vertical-align: middle;"> Warning
+### <img src="https://raw.githubusercontent.com/querylab/svg/main/speaker1.gif" width="40" style="vertical-align: middle;"> Warning
 
 - **Important Note:** If you have attachments in your Bitwarden account that are very large (MP4 videos, MP3s, high resolution photos, etc.), and the total size of your account exceeds 100MB, the backup process may take some time to complete. The larger the size of the backup file, the longer it will take to upload to the cloud. However, local storage of the backup is much faster.
 - Note that if your account contains many attachments, this could significantly influence the total time of the backup process.
 
-###  <img src="https://raw.githubusercontent.com/querylab/svg/main/focus.gif" width="40" style="vertical-align: middle;"> Motivations 
+### <img src="https://raw.githubusercontent.com/querylab/svg/main/focus1.gif" width="40" style="vertical-align: middle;">Motivations
 
 - I was looking for an automated solution to manage Bitwarden backups without manual intervention or exposure of sensitive data. After trying several complicated and cumbersome tools, I discovered Bitwarden Secret Manager, which keeps secrets within the same platform. With Lazywarden, I automate the management of secrets and backups through Bitwarden to then uploud to Google Drive, Dropbox, pCloud and MEGA, plus integrate notifications with Telegram, Discord, Slack and backup tracking through Todoist. 
 
