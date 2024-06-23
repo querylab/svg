@@ -60,7 +60,7 @@ Lazywarden is a Python-based automation tool designed to back up your vault data
     - ✅ Ubuntu
     - ✅ Debian
 
-## <iframe src="https://giphy.com/embed/L8Q95pQPEIj4Gp0rSl" width="40" height="40" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> Installation<p><a href="https://giphy.com/gifs/Captivvisualdesign-rocket-captivvisualdesign-fannyutopie-L8Q95pQPEIj4Gp0rSl"></a></p>
+## Installation <img src="https://raw.githubusercontent.com/querylab/svg/main/rocket1.gif" width="40" style="vertical-align: middle;">
 
 #### 1. Clone the repository
 
