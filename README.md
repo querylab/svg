@@ -25,7 +25,9 @@ Lazywarden is a Python-based automation tool designed to back up your vault data
 - 🔔 **Real-Time Alerts**: Receive instant notifications through Discord, Todoist, Telegram, and Slack to stay informed.
 - 🐳 **Easy Deployment**: Quick and effortless setup with Docker Compose, ensuring a consistent environment.
 - 🔄 **Complete Automation**: Perform daily backups automatically without any manual intervention, keeping your data safe at all times.
-## Demo <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30" style="vertical-align: middle;">
+
+
+## <span style="display: inline-flex; align-items: center;"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="28" style="vertical-align: middle; margin-right: 10px;">  Demo</span>
 
 
 <img src="https://raw.githubusercontent.com/querylab/svg/main/lazylazy.gif" />
