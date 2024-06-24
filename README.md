@@ -1,4 +1,4 @@
-## Lazywarden Backup
+
 
 <div class="icon-container">
     <img src="https://raw.githubusercontent.com/querylab/svg/main/bitwarden.svg" alt="Bitwarden" />
