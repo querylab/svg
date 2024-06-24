@@ -97,7 +97,7 @@ ACCESS_TOKEN=0.50bf3g00-4fef-002b-a680-0000000000049.P1vlm2222222222bfiOUO:f3G1N
 
 ```
 
-### <img src="https://raw.githubusercontent.com/querylab/svg/main/ubuntu.gif" width="25" style="vertical-align: middle;"> Ubuntu Configuration
+### <img src="https://raw.githubusercontent.com/querylab/svg/main/ubuntu.gif" width="20" style="vertical-align: middle;"> Ubuntu Configuration
 
 - Run the script to install all system dependencies and requirements
  
@@ -157,7 +157,7 @@ timedatectl set-timezone America/Chicago
 
 ---
 
-### <img src="https://raw.githubusercontent.com/querylab/svg/main/debian.png" width="25" style="vertical-align: middle;"> Debian Configuration
+### <img src="https://raw.githubusercontent.com/querylab/svg/main/debian.png" width="20" style="vertical-align: middle;"> Debian Configuration
 
  - Run the script to install all system dependencies and requirements:
  
