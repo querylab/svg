@@ -22,7 +22,8 @@ Lazywarden is a Python-based automation tool designed to back up your vault data
 
 - 🔒 **Top-Level Security**: Protect your data with AES-256 encryption and Argon2 key derivation for maximum security.
 - ☁️ **Multi-Cloud Compatibility**: Store your backups in multiple cloud storage services like Dropbox, Google Drive, pCloud, MEGA, and via SMTP.
-- 🔔 **Real-Time Alerts**: Receive instant notifications through Discord, Todoist, Telegram, and Slack to stay informed.
+- 🔔 **Real-Time Alerts**: Receive instant notifications through Discord, Telegram, and Slack to stay informed.
+- 📅 **Schedule Tracking**: Easily track and manage your schedule with Todoist integration.
 - 🐳 **Easy Deployment**: Quick and effortless setup with Docker Compose, ensuring a consistent environment.
 - 🔄 **Complete Automation**: Perform daily backups automatically without any manual intervention, keeping your data safe at all times.
 
@@ -478,10 +479,10 @@ GOOGLE_FOLDER_ID=1qtV4vfIjmXyhDdzIzJ6RiCc-b0M22vsF
 
 lazywarden/
 ├── app/       #This directory appears to contain the main application code
-│   ├── backup.py                #Module related to backup functions
+│   ├── backup.py                #Backup functions
 │   ├── bitwarden_client.py      #Client to interact with Bitwarden
 │   ├── config.py                #General application configurations
-│   ├── imports.py               #Possibly handles common imports
+│   ├── imports.py               #Handles common imports
 │   ├── main.py                  #Main entry point of the application
 │   ├── notifications.py         #Handles notifications
 │   ├── secrets_manager.py       #Manages secrets
