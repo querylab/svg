@@ -25,13 +25,12 @@ Lazywarden is a Python-based automation tool designed to back up your vault data
 - 🔔 **Real-Time Alerts**: Receive instant notifications through Discord, Telegram, and Slack to stay informed.
 - 📅 **Schedule Tracking**: Easily track and manage your schedule with Todoist integration.
 - 🐳 **Easy Deployment**: Quick and effortless setup with Docker Compose, ensuring a consistent environment.
-- 🔄 **Complete Automation**: Perform daily backups automatically without any manual intervention, keeping your data safe at all times.
-
+- 🔄 **Full Automation:** Performs daily backups automatically without the need for manual intervention, ensuring the safety of your data at all times. Users can also adjust the backup frequency according to their needs, choosing from daily, monthly, or even hourly options.
 
 ## <span style="display: inline-flex; align-items: center;"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40" style="vertical-align: middle; margin-right: 10px;"> Demo</span>
 
 
-<img src="https://raw.githubusercontent.com/querylab/svg/main/lazylazy.gif" />
+<img src="https://raw.githubusercontent.com/querylab/svg/main/lazywarden6.gif" />
 
 
 
@@ -214,7 +213,7 @@ timedatectl set-timezone America/New_York
 
 
 
-### Steps to Configure Bitwarden Secrets Manager  <img src="https://raw.githubusercontent.com/querylab/svg/main/toolbox1.gif" width="30" style="vertical-align: middle;">
+### Steps to Configure Bitwarden Secrets Manager <img src="https://raw.githubusercontent.com/querylab/svg/main/toolbox1.gif" width="30" style="vertical-align: middle;">
 
 To set up Secret Management in Bitwarden, first create a new organization in your account to serve as a container for shared secrets. Next, subscribe to the Secret Manager service, which allows you to securely store an unlimited number of secrets, such as API keys, passwords and certificates. This service provides end-to-end encryption, centralized management and access control.
 
