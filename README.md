@@ -213,7 +213,7 @@ ZIP_ATTACHMENT_PASSWORD=HBLXL9!grer@Uay2edkwTXeZx!E9DxKphNxsNak$knb$dcfx2o
 
 ```
 
-##  4. Dropbox API Configuration
+##  4. Dropbox API Configuration <img src="https://raw.githubusercontent.com/querylab/svg/main/dropbox.gif" width="120" style="vertical-align: middle;">
 
 By following these steps, your Dropbox Token will remain active and will not expire every 4 hours.
 
@@ -293,7 +293,7 @@ curl https://api.dropbox.com/oauth2/token \
 
 
 
-## 5. Steps to Configure Google Drive API
+## 5. Google Drive API Configuration <img src="https://raw.githubusercontent.com/querylab/svg/main/drive3.gif" width="120" style="vertical-align: middle;">
 
 1. Go to this web page [https://console.developers.google.com/iam-admin/serviceaccounts](https://console.developers.google.com/iam-admin/serviceaccounts)
 2. Create a New Project.
@@ -390,7 +390,7 @@ lazywarden/
 ```
 
 
-### <img src="https://raw.githubusercontent.com/querylab/svg/main/ubuntu.gif" width="25" style="vertical-align: middle;"> Ubuntu
+### <img src="https://raw.githubusercontent.com/querylab/svg/main/ubuntu.gif" width="25" style="vertical-align: middle;"> Ubuntu Configuration
 
 - Run the script to install all system dependencies and requirements
  
@@ -450,7 +450,7 @@ timedatectl set-timezone America/Chicago
 
 ---
 
-### <img src="https://raw.githubusercontent.com/querylab/svg/main/debian.png" width="25" style="vertical-align: middle;"> Debian
+### <img src="https://raw.githubusercontent.com/querylab/svg/main/debian.png" width="25" style="vertical-align: middle;"> Debian Configuration
 
  - Run the script to install all system dependencies and requirements:
  
