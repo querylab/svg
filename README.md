@@ -18,7 +18,7 @@
 
 Lazywarden is a Python-based automation tool designed to back up your vault data, including Bitwarden attachments, and upload it to multiple cloud storage services. It supports notifications across multiple platforms and includes an AES encrypted backup feature with a key derived using Argon2 to ensure the security of your data.
 
-## <span style="display: flex; align-items: center;"><img src="https://raw.githubusercontent.com/querylab/svg/main/start.gif" width="48" style="vertical-align: middle; margin-right: 10px;"> Features</span>
+## <span style="display: flex; align-items: center;"><img src="https://raw.githubusercontent.com/querylab/svg/main/start.gif" width="50" style="vertical-align: middle; margin-right: 10px;"> Features</span>
 
 - 🔒 **Top-Level Security**: Protect your data with AES-256 encryption and Argon2 key derivation for maximum security.
 - ☁️ **Multi-Cloud Compatibility**: Store your backups in multiple cloud storage services like Dropbox, Google Drive, pCloud, MEGA, and via SMTP.
@@ -27,7 +27,7 @@ Lazywarden is a Python-based automation tool designed to back up your vault data
 - 🔄 **Complete Automation**: Perform daily backups automatically without any manual intervention, keeping your data safe at all times.
 
 
-## <span style="display: inline-flex; align-items: center;"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40" style="vertical-align: middle; margin-right: 10px;"> Demo</span>
+## <span style="display: inline-flex; align-items: center;"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50" style="vertical-align: middle; margin-right: 10px;"> Demo</span>
 
 
 <img src="https://raw.githubusercontent.com/querylab/svg/main/lazylazy.gif" />
@@ -57,13 +57,13 @@ Lazywarden is a Python-based automation tool designed to back up your vault data
 
 
 
-## <span style="display: inline-flex; align-items: center;"> <img src="https://raw.githubusercontent.com/querylab/svg/main/server2.gif" width="60" style="vertical-align: middle; margin-right: 10px;"> <img src="https://raw.githubusercontent.com/querylab/svg/main/process2.gif" width="60" style="vertical-align: middle; margin-right: 15px;"> System Requirements </span>
+## <span style="display: inline-flex; align-items: center;"> <img src="https://raw.githubusercontent.com/querylab/svg/main/server2.gif" width="50" style="vertical-align: middle; margin-right: 10px;"> <img src="https://raw.githubusercontent.com/querylab/svg/main/process2.gif" width="50" style="vertical-align: middle; margin-right: 15px;"> System Requirements </span>
 
 - **Operating System**: Compatible with major Linux distributions:
     - ✅ Ubuntu
     - ✅ Debian
 
-## <span style="display: inline-flex; align-items: center;"><img src="https://raw.githubusercontent.com/querylab/svg/main/rocket1.gif" width="60" style="vertical-align: middle; margin-right: 15px;">Installation</span>
+## <span style="display: inline-flex; align-items: center;"><img src="https://raw.githubusercontent.com/querylab/svg/main/rocket1.gif" width="50" style="vertical-align: middle; margin-right: 15px;">Installation</span>
 
 #### 1. Clone the repository
 
@@ -191,7 +191,7 @@ ORGANIZATION_ID=212A4880-22f9-1114-b00e-b1950234278ac
 ACCESS_TOKEN=0.345f5e9c-8730-4a4c-917b-b10000331f56.Oj4XzcyGFF22222L22l7LZL333A7VkwzV:e5mC4d11111117bS8/3EQ==
 ```
 
-## <img src="https://raw.githubusercontent.com/querylab/svg/main/alert1.gif" width="30" style="vertical-align: middle;"> Attention: Security Critical Variables <img src="https://raw.githubusercontent.com/querylab/svg/main/key2.gif" width="34" style="vertical-align: middle;">
+## <img src="https://raw.githubusercontent.com/querylab/svg/main/alert1.gif" width="30" style="vertical-align: middle;"> Attention: Security Critical Variables <img src="https://raw.githubusercontent.com/querylab/svg/main/pad2.gif" width="30" style="vertical-align: middle;"> <img src="https://raw.githubusercontent.com/querylab/svg/main/key2.gif" width="30" style="vertical-align: middle;">
 
 
 ``` BASH
