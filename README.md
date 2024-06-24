@@ -64,14 +64,14 @@ Lazywarden is a Python-based automation tool designed to back up your vault data
 	- ✅ Debian
 
 ## <span style="display: inline-flex; align-items: center;"><img src="https://raw.githubusercontent.com/querylab/svg/main/rocket1.gif" width="50" style="vertical-align: middle; margin-right: 15px;">Installation</span>
-### 1. Clone the repository
+###  Clone the repository
 
  ``` BASH
     git clone https://github.com/querylab/lazywarden.git
     cd lazywarden
 ```
 
-### 2. Configure Environment Variables & Bitwarden Secrets Manager
+### Configure Environment Variables & Bitwarden Secrets Manager
 
 - Create a `.env` file based on the on this `.env.sample` example file and fill in the necessary variables.
 
@@ -97,7 +97,123 @@ ACCESS_TOKEN=0.50bf3g00-4fef-002b-a680-0000000000049.P1vlm2222222222bfiOUO:f3G1N
 
 ```
 
-### 3. Steps to Configure Bitwarden Secrets Manager
+### <img src="https://raw.githubusercontent.com/querylab/svg/main/ubuntu.gif" width="25" style="vertical-align: middle;"> Ubuntu Configuration
+
+- Run the script to install all system dependencies and requirements
+ 
+``` BASH
+
+cd lazywarden/scripts
+
+chmod +x setup-ubuntu-env.sh
+
+./setup-ubuntu-env.sh
+
+```
+
+
+- Run this script to automatically install Docker & Docker-Compose:
+
+```BASH
+
+chmod +x docker-ubuntu.sh
+
+./docker-ubuntu.sh
+
+```
+
+- First, ensure you are in the root directory of the project `lazywarden/`:
+
+``` BASH
+cd .. 
+
+source venv/bin/activate
+
+```
+
+- Now Install Bitwarden CLI using the `bitwarden-cli-install.py` script, which will install all CLI dependencies:
+
+``` PYTHON
+python3 scripts/bitwarden-cli-install.py
+```
+
+- Run the Lazywarden program. Navigate to the `app/` folder and execute `main.py`:
+
+``` PYTHON
+cd app
+python3 main.py
+
+```
+
+- If you have an issue with the system time run the following command
+
+``` BASH
+
+timedatectl list-timezones
+
+timedatectl set-timezone America/Chicago
+
+```
+
+---
+
+### <img src="https://raw.githubusercontent.com/querylab/svg/main/debian.png" width="25" style="vertical-align: middle;"> Debian Configuration
+
+ - Run the script to install all system dependencies and requirements:
+ 
+``` BASH
+cd lazywarden/scripts
+chmod +x setup-debian-env.sh
+./setup-debian-env.sh
+
+```
+
+- Run this script to automatically install Docker & Docker-Compose:
+
+```BASH
+
+chmod +x docker-debian.sh
+./docker-debian.sh
+
+```
+
+- First, ensure you are in the root directory of the project `lazywarden/`:
+
+``` BASH
+cd .. 
+source venv/bin/activate
+```
+
+- Install Bitwarden CLI using the `bitwarden-cli-install.py` script, which will install all CLI dependencies:
+
+``` PYTHON
+python3 scripts/bitwarden-cli-install.py
+```
+
+- Run the Lazywarden program. Navigate to the `app/` folder and execute `main.py`:
+
+``` PYTHON
+cd app
+python3 main.py
+
+```
+
+- If you have an issue with the system time run the following command
+
+``` BASH
+
+timedatectl list-timezones
+
+timedatectl set-timezone America/New_York
+
+```
+
+
+
+
+
+
+### Steps to Configure Bitwarden Secrets Manager
 
 To set up Secret Management in Bitwarden, first create a new organization in your account to serve as a container for shared secrets. Next, subscribe to the Secret Manager service, which allows you to securely store an unlimited number of secrets, such as API keys, passwords and certificates. This service provides end-to-end encryption, centralized management and access control.
 
@@ -213,7 +329,7 @@ ZIP_ATTACHMENT_PASSWORD=HBLXL9!grer@Uay2edkwTXeZx!E9DxKphNxsNak$knb$dcfx2o
 
 ```
 
-##  4. Dropbox API Configuration <img src="https://raw.githubusercontent.com/querylab/svg/main/dropbox.gif" width="70" style="vertical-align: middle;">
+## Dropbox API Configuration <img src="https://raw.githubusercontent.com/querylab/svg/main/dropbox.gif" width="70" style="vertical-align: middle;">
 
 By following these steps, your Dropbox Token will remain active and will not expire every 4 hours.
 
@@ -293,7 +409,7 @@ curl https://api.dropbox.com/oauth2/token \
 
 
 
-## 5. Google Drive API Configuration <img src="https://raw.githubusercontent.com/querylab/svg/main/drive3.gif" width="70" style="vertical-align: middle;">
+## Google Drive API Configuration <img src="https://raw.githubusercontent.com/querylab/svg/main/drive3.gif" width="70" style="vertical-align: middle;">
 
 1. Go to this web page [https://console.developers.google.com/iam-admin/serviceaccounts](https://console.developers.google.com/iam-admin/serviceaccounts)
 2. Create a New Project.
@@ -389,117 +505,6 @@ lazywarden/
 
 ```
 
-
-### <img src="https://raw.githubusercontent.com/querylab/svg/main/ubuntu.gif" width="25" style="vertical-align: middle;"> Ubuntu Configuration
-
-- Run the script to install all system dependencies and requirements
- 
-``` BASH
-
-cd lazywarden/scripts
-
-chmod +x setup-ubuntu-env.sh
-
-./setup-ubuntu-env.sh
-
-```
-
-
-- Run this script to automatically install Docker & Docker-Compose:
-
-```BASH
-
-chmod +x docker-ubuntu.sh
-
-./docker-ubuntu.sh
-
-```
-
-- First, ensure you are in the root directory of the project `lazywarden/`:
-
-``` BASH
-cd .. 
-
-source venv/bin/activate
-
-```
-
-- Now Install Bitwarden CLI using the `bitwarden-cli-install.py` script, which will install all CLI dependencies:
-
-``` PYTHON
-python3 scripts/bitwarden-cli-install.py
-```
-
-- Run the Lazywarden program. Navigate to the `app/` folder and execute `main.py`:
-
-``` PYTHON
-cd app
-python3 main.py
-
-```
-
-- If you have an issue with the system time run the following command
-
-``` BASH
-
-timedatectl list-timezones
-
-timedatectl set-timezone America/Chicago
-
-```
-
----
-
-### <img src="https://raw.githubusercontent.com/querylab/svg/main/debian.png" width="25" style="vertical-align: middle;"> Debian Configuration
-
- - Run the script to install all system dependencies and requirements:
- 
-``` BASH
-cd lazywarden/scripts
-chmod +x setup-debian-env.sh
-./setup-debian-env.sh
-
-```
-
-- Run this script to automatically install Docker & Docker-Compose:
-
-```BASH
-
-chmod +x docker-debian.sh
-./docker-debian.sh
-
-```
-
-- First, ensure you are in the root directory of the project `lazywarden/`:
-
-``` BASH
-cd .. 
-source venv/bin/activate
-```
-
-- Install Bitwarden CLI using the `bitwarden-cli-install.py` script, which will install all CLI dependencies:
-
-``` PYTHON
-python3 scripts/bitwarden-cli-install.py
-```
-
-- Run the Lazywarden program. Navigate to the `app/` folder and execute `main.py`:
-
-``` PYTHON
-cd app
-python3 main.py
-
-```
-
-- If you have an issue with the system time run the following command
-
-``` BASH
-
-timedatectl list-timezones
-
-timedatectl set-timezone America/New_York
-
-```
 
 
 ### <img src="https://raw.githubusercontent.com/querylab/svg/main/snake1.gif" width="30" style="vertical-align: middle;"> Cron Job for Python
