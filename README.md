@@ -14,7 +14,7 @@
 </div>
 
 
-## 🔐🏛️Lazywarden: Your Automated, Secure, and Multi-Cloud Bitwarden Backup System
+# 🔐🏛️Lazywarden: Your Automated, Secure, and Multi-Cloud Bitwarden Backup System
 
 Lazywarden is a Python-based automation tool designed to back up your vault data, including Bitwarden attachments, and upload it to multiple cloud storage services. It supports notifications across multiple platforms and includes an AES encrypted backup feature with a key derived using Argon2 to ensure the security of your data.
 
@@ -606,7 +606,7 @@ docker compose up -d
 
 ### 📢 Warning
 
-- **Important Note:** If you have attachments in your Bitwarden account that are very large (MP4 videos, MP3s, high resolution photos, etc.), and the total size of your account exceeds 100MB, the backup process may take some time to complete. The larger the size of the backup file, the longer it will take to upload to the cloud. However, local storage of the backup is much faster.
+- **Important Note:** If you have attachments in your Bitwarden account that are very large (MP4 videos, MP3s, high resolution photos, etc.), the backup process may take some time to complete. The larger the size of the backup file, the longer it will take to upload to the cloud. However, local storage of the backup is much faster.
 - Note that if your account contains many attachments, this could significantly influence the total time of the backup process.
 
 ### <span style="display: inline-flex; align-items: center;"> <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" style="vertical-align: middle; margin-right: 10px;"> Motivations </span>
