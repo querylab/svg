@@ -213,7 +213,7 @@ ZIP_ATTACHMENT_PASSWORD=HBLXL9!grer@Uay2edkwTXeZx!E9DxKphNxsNak$knb$dcfx2o
 
 ```
 
-##  4. Dropbox API Configuration <img src="https://raw.githubusercontent.com/querylab/svg/main/dropbox.gif" width="75" style="vertical-align: middle;">
+##  4. Dropbox API Configuration <img src="https://raw.githubusercontent.com/querylab/svg/main/dropbox.gif" width="35" style="vertical-align: middle;">
 
 By following these steps, your Dropbox Token will remain active and will not expire every 4 hours.
 
@@ -293,7 +293,7 @@ curl https://api.dropbox.com/oauth2/token \
 
 
 
-## 5. Google Drive API Configuration <img src="https://raw.githubusercontent.com/querylab/svg/main/drive3.gif" width="75" style="vertical-align: middle;">
+## 5. Google Drive API Configuration <img src="https://raw.githubusercontent.com/querylab/svg/main/drive3.gif" width="35" style="vertical-align: middle;">
 
 1. Go to this web page [https://console.developers.google.com/iam-admin/serviceaccounts](https://console.developers.google.com/iam-admin/serviceaccounts)
 2. Create a New Project.
