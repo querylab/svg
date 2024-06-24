@@ -18,7 +18,7 @@
 
 Lazywarden is a Python-based automation tool designed to back up your vault data, including Bitwarden attachments, and upload it to multiple cloud storage services. It supports notifications across multiple platforms and includes an AES encrypted backup feature with a key derived using Argon2 to ensure the security of your data.
 
-## <span style="display: flex; align-items: center;"><img src="https://raw.githubusercontent.com/querylab/svg/main/start.gif" width="60" style="vertical-align: middle; margin-right: 10px;"> Features</span>
+## <span style="display: flex; align-items: center;"><img src="https://raw.githubusercontent.com/querylab/svg/main/start.gif" width="48" style="vertical-align: middle; margin-right: 10px;"> Features</span>
 
 - 🔒 **Top-Level Security**: Protect your data with AES-256 encryption and Argon2 key derivation for maximum security.
 - ☁️ **Multi-Cloud Compatibility**: Store your backups in multiple cloud storage services like Dropbox, Google Drive, pCloud, MEGA, and via SMTP.
@@ -27,7 +27,7 @@ Lazywarden is a Python-based automation tool designed to back up your vault data
 - 🔄 **Complete Automation**: Perform daily backups automatically without any manual intervention, keeping your data safe at all times.
 
 
-## <span style="display: inline-flex; align-items: center;"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="48" style="vertical-align: middle; margin-right: 10px;"> Demo</span>
+## <span style="display: inline-flex; align-items: center;"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40" style="vertical-align: middle; margin-right: 10px;"> Demo</span>
 
 
 <img src="https://raw.githubusercontent.com/querylab/svg/main/lazylazy.gif" />
@@ -191,7 +191,7 @@ ORGANIZATION_ID=212A4880-22f9-1114-b00e-b1950234278ac
 ACCESS_TOKEN=0.345f5e9c-8730-4a4c-917b-b10000331f56.Oj4XzcyGFF22222L22l7LZL333A7VkwzV:e5mC4d11111117bS8/3EQ==
 ```
 
-## <img src="https://raw.githubusercontent.com/querylab/svg/main/alert1.gif" width="40" style="vertical-align: middle;"> Attention: Security Critical Variables <img src="https://raw.githubusercontent.com/querylab/svg/main/key.gif" width="40" style="vertical-align: middle;"> <img src="https://raw.githubusercontent.com/querylab/svg/main/pad1.gif" width="60" style="vertical-align: middle;">
+## <img src="https://raw.githubusercontent.com/querylab/svg/main/alert1.gif" width="30" style="vertical-align: middle;"> Attention: Security Critical Variables <img src="https://raw.githubusercontent.com/querylab/svg/main/key2.gif" width="34" style="vertical-align: middle;">
 
 
 ``` BASH
@@ -600,7 +600,7 @@ docker compose up -d
 
 - The `docker-compose.yml` file defines the lazywarden service and sets up environment variables and volumes for persistent storage.
 
-### 10. <img src="https://raw.githubusercontent.com/querylab/svg/main/alert1.gif" width="22" style="vertical-align: middle;"><img src="https://raw.githubusercontent.com/querylab/svg/main/cloud1.gif" width="22" style="vertical-align: middle;"><img src="https://raw.githubusercontent.com/querylab/svg/main/process2.gif" width="22" style="vertical-align: middle;"> Security Recommendation: Run in Local Environment 
+### 10. <img src="https://raw.githubusercontent.com/querylab/svg/main/alert1.gif" width="30" style="vertical-align: middle;"><img src="https://raw.githubusercontent.com/querylab/svg/main/cloud1.gif" width="30" style="vertical-align: middle;"><img src="https://raw.githubusercontent.com/querylab/svg/main/process2.gif" width="30" style="vertical-align: middle;"> Security Recommendation: Run in Local Environment 
 
 - For security, run this project only in a local environment within your personal network. This significantly reduces the risk of exposure to external attacks, ensuring that sensitive data and credentials remain protected within a controlled environment.
 
@@ -610,7 +610,7 @@ docker compose up -d
 - **Important Note:** If you have attachments in your Bitwarden account that are very large (MP4 videos, MP3s, high resolution photos, etc.), and the total size of your account exceeds 100MB, the backup process may take some time to complete. The larger the size of the backup file, the longer it will take to upload to the cloud. However, local storage of the backup is much faster.
 - Note that if your account contains many attachments, this could significantly influence the total time of the backup process.
 
-### 12. <span style="display: inline-flex; align-items: center;"> <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="22" style="vertical-align: middle; margin-right: 10px;"> Motivations </span>
+### 12. <span style="display: inline-flex; align-items: center;"> <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" style="vertical-align: middle; margin-right: 10px;"> Motivations </span>
 
 - I was looking for an automated solution to manage Bitwarden backups without manual intervention or exposure of sensitive data. After trying several complicated and cumbersome tools, I discovered Bitwarden Secret Manager, which keeps secrets within the same platform. With Lazywarden, I automate the management of secrets and backups through Bitwarden to then uploud to Google Drive, Dropbox, pCloud and MEGA, plus integrate notifications with Telegram, Discord, Slack and backup tracking through Todoist. 
 
