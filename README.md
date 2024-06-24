@@ -214,7 +214,7 @@ timedatectl set-timezone America/New_York
 
 
 
-### Steps to Configure Bitwarden Secrets Manager   <img src="https://raw.githubusercontent.com/querylab/svg/main/toolbox1.gif" width="20" style="vertical-align: middle;">
+### Steps to Configure Bitwarden Secrets Manager  <img src="https://raw.githubusercontent.com/querylab/svg/main/toolbox1.gif" width="30" style="vertical-align: middle;">
 
 To set up Secret Management in Bitwarden, first create a new organization in your account to serve as a container for shared secrets. Next, subscribe to the Secret Manager service, which allows you to securely store an unlimited number of secrets, such as API keys, passwords and certificates. This service provides end-to-end encryption, centralized management and access control.
 
