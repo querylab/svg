@@ -390,7 +390,7 @@ lazywarden/
 ```
 
 
-### <img src="https://raw.githubusercontent.com/querylab/svg/main/toolbox1.gif" width="30" style="vertical-align: middle;"> Ubuntu Configuration
+### <img src="https://raw.githubusercontent.com/querylab/svg/main/ubuntu.gif" width="25" style="vertical-align: middle;"> Ubuntu
 
 - Run the script to install all system dependencies and requirements
  
@@ -450,7 +450,7 @@ timedatectl set-timezone America/Chicago
 
 ---
 
-### <img src="https://raw.githubusercontent.com/querylab/svg/main/toolbox1.gif" width="30" style="vertical-align: middle;"> Debian Configuration
+### <img src="https://raw.githubusercontent.com/querylab/svg/main/debian.png" width="25" style="vertical-align: middle;"> Debian
 
  - Run the script to install all system dependencies and requirements:
  
