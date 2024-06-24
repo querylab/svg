@@ -214,7 +214,7 @@ timedatectl set-timezone America/New_York
 
 
 
-### Steps to Configure Bitwarden Secrets Manager
+### Steps to Configure Bitwarden Secrets Manager  <img src="https://raw.githubusercontent.com/querylab/svg/main/toolbox1.gif" width="35" style="vertical-align: middle;">
 
 To set up Secret Management in Bitwarden, first create a new organization in your account to serve as a container for shared secrets. Next, subscribe to the Secret Manager service, which allows you to securely store an unlimited number of secrets, such as API keys, passwords and certificates. This service provides end-to-end encryption, centralized management and access control.
 
@@ -307,7 +307,7 @@ ORGANIZATION_ID=212A4880-22f9-1114-b00e-b1950234278ac
 ACCESS_TOKEN=0.345f5e9c-8730-4a4c-917b-b10000331f56.Oj4XzcyGFF22222L22l7LZL333A7VkwzV:e5mC4d11111117bS8/3EQ==
 ```
 
-## <img src="https://raw.githubusercontent.com/querylab/svg/main/alert1.gif" width="30" style="vertical-align: middle;"> Attention: Security Critical Variables <img src="https://raw.githubusercontent.com/querylab/svg/main/pad2.gif" width="30" style="vertical-align: middle;"> <img src="https://raw.githubusercontent.com/querylab/svg/main/key2.gif" width="30" style="vertical-align: middle;">
+# <img src="https://raw.githubusercontent.com/querylab/svg/main/alert1.gif" width="30" style="vertical-align: middle;"> Attention: Security Critical Variables <img src="https://raw.githubusercontent.com/querylab/svg/main/pad2.gif" width="30" style="vertical-align: middle;"> <img src="https://raw.githubusercontent.com/querylab/svg/main/key2.gif" width="30" style="vertical-align: middle;">
 
 
 ``` BASH
