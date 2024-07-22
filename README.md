@@ -16,7 +16,7 @@ Lazywarden is a Python automation tool for backing up and restoring data from yo
 - 🤖 **Full Automation and Custom Scheduling:** Automatic backups with flexible scheduling options (daily, weekly, monthly, yearly). Integration with CalDAV and Todoist for complete tracking and email notifications.
 - 🔑 **Bitwarden Export to KeePass:** Export Bitwarden items to a KeePass database (kdbx), including TOTP-seeded logins, URI, custom fields, card, identity attachments and secure notes.
 
-## <span style="display: inline-flex; align-items: center;"><img src="https://media.tenor.com/-AyTtMgs2mMAAAAi/nyan-cat-nyan.gif" width="80" style="vertical-align: middle; margin-right: 10px;"> Platform Compatibility</span>
+## <span style="display: inline-flex; align-items: center; vertical-align: middle;"><img src="https://media.tenor.com/-AyTtMgs2mMAAAAi/nyan-cat-nyan.gif" width="80" style="margin-right: 10px; vertical-align: middle;"> Platform Compatibility</span>
 
 <div style="display: flex; justify-content: space-around;">
     <a href="https://imgur.com/Xz2k5O8"><img src="https://i.imgur.com/Xz2k5O8.png" title="source: imgur.com" width="30"/></a>
