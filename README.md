@@ -674,7 +674,7 @@ docker compose up -d
 
 ### 📢 Warning
 
-**Important Note**
+#### **Important Note**
 
 - If you have large attachments in your Bitwarden account (e.g., MP4 videos, MP3 files, high-resolution photos), the backup process may take some time to complete. Larger backup files will take longer to upload to the cloud. Local storage of the backup is significantly faster, and the same applies to importing data.
 - A large number of attachments in your account can significantly increase the total backup time. Errors may occur when uploading the file to Dropbox, Google Drive, pCloud, MEGA, Seafile, Nextcloud, or Filebase. If errors occur, try again; the backup may succeed on a subsequent attempt.
