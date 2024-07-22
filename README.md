@@ -1,6 +1,9 @@
+<div align="center">
+  <a href="https://imgur.com/k4VWmn7">
+    <img src="https://i.imgur.com/k4VWmn7.png" title="source: imgur.com" width="500" />
+  </a>
+</div>
 
-
-<a href="https://imgur.com/k4VWmn7"> <img src="https://imgur.com/k4VWmn7.png" title="source: imgur.com" width="600" /> </a>
 # Secure, Automated, and Multi-Cloud Bitwarden Backup and Import System
 
 Lazywarden is a Python automation tool for backing up and restoring data from your vault, including Bitwarden attachments. It allows you to upload backups to multiple cloud storage services and receive notifications on various platforms. It offers AES encrypted backups and Argon2 key derivation to ensure maximum security of your data.
@@ -21,7 +24,7 @@ Lazywarden is a Python automation tool for backing up and restoring data from yo
 ## <span style="display: inline-flex; align-items: center;"><img src="https://media.tenor.com/-AyTtMgs2mMAAAAi/nyan-cat-nyan.gif" width="60" style="vertical-align: middle; margin-right: 10px;"> Platform Compatibility</span>
 
 
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: space-around; gap: 8em;">
     <a href="https://imgur.com/Xz2k5O8"><img src="https://i.imgur.com/Xz2k5O8.png" title="source: imgur.com" width="30"/></a>
     <a href="https://imgur.com/9oZa9uU"><img src="https://imgur.com/9oZa9uU.png" title="source: imgur.com" width="30"/></a>
     <a href="https://imgur.com/jWZzbvl"><img src="https://imgur.com/jWZzbvl.png" title="source: imgur.com" width="30"/></a>
@@ -38,7 +41,8 @@ Lazywarden is a Python automation tool for backing up and restoring data from yo
     <a href="https://imgur.com/krgaizW"><img src="https://imgur.com/krgaizW.png" title="source: imgur.com" width="30"/></a>
     <a href="https://imgur.com/QAawp1J"><img src="https://imgur.com/QAawp1J.png" title="source: imgur.com" width="30"/></a>
     <a href="https://imgur.com/hRwMM9n"><img src="https://imgur.com/hRwMM9n.png" title="source: imgur.com" width="30"/></a>
-    </a>
+</div>
+
 
 
 
@@ -690,8 +694,10 @@ docker compose up -d
 - If you like this project, please consider giving it a ⭐
 
 
-<div style="text-align: center;">
-    <img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="150" />
+<div align="center">
+  <a href="https://imgur.com/k4VWmn7">
+    <img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" title="source: imgur.com" width="150" />
+  </a>
 </div>
 
 
