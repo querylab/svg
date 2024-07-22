@@ -1,9 +1,6 @@
-<div align="center">
-  <a href="https://imgur.com/k4VWmn7">
-    <img src="https://i.imgur.com/k4VWmn7.png" title="source: imgur.com" width="500" />
-  </a>
-</div>
 
+
+<a href="https://imgur.com/k4VWmn7"> <img src="https://imgur.com/k4VWmn7.png" title="source: imgur.com" width="600" /> </a>
 # Secure, Automated, and Multi-Cloud Bitwarden Backup and Import System
 
 Lazywarden is a Python automation tool for backing up and restoring data from your vault, including Bitwarden attachments. It allows you to upload backups to multiple cloud storage services and receive notifications on various platforms. It offers AES encrypted backups and Argon2 key derivation to ensure maximum security of your data.
@@ -21,44 +18,31 @@ Lazywarden is a Python automation tool for backing up and restoring data from yo
 - 🤖 **Full Automation and Custom Scheduling:** Automatic backups with flexible scheduling options (daily, weekly, monthly, yearly). Integration with CalDAV and Todoist for complete tracking and email notifications.
 - 🔑 **Bitwarden Export to KeePass:** Export Bitwarden items to a KeePass database (kdbx), including TOTP-seeded logins, URI, custom fields, card, identity attachments and secure notes.
 
-#### <span style="display: inline-flex; align-items: center;"><img src="https://media.tenor.com/-AyTtMgs2mMAAAAi/nyan-cat-nyan.gif" width="70" style="vertical-align: middle; margin-right: 10px;"> Platform Compatibility</span>
+## <span style="display: inline-flex; align-items: center;"><img src="https://media.tenor.com/-AyTtMgs2mMAAAAi/nyan-cat-nyan.gif" width="60" style="vertical-align: middle; margin-right: 10px;"> Platform Compatibility</span>
 
 
 <div style="display: flex; justify-content: space-around;">
+    <a href="https://imgur.com/Xz2k5O8"><img src="https://i.imgur.com/Xz2k5O8.png" title="source: imgur.com" width="30"/></a>
+    <a href="https://imgur.com/9oZa9uU"><img src="https://imgur.com/9oZa9uU.png" title="source: imgur.com" width="30"/></a>
+    <a href="https://imgur.com/jWZzbvl"><img src="https://imgur.com/jWZzbvl.png" title="source: imgur.com" width="30"/></a>
+    <a href="https://imgur.com/O0PZyxN"><img src="https://i.imgur.com/O0PZyxN.png" title="source: imgur.com" width="30"/></a>
+    <a href="https://imgur.com/aa100eH"><img src="https://i.imgur.com/aa100eH.png" title="source: imgur.com" width="30"/></a>
+    <a href="https://imgur.com/Grlq9aN"><img src="https://i.imgur.com/Grlq9aN.png" title="source: imgur.com" width="30"/></a>
+    <a href="https://imgur.com/UYGpfR8"><img src="https://i.imgur.com/UYGpfR8.png" title="source: imgur.com" width="30"/></a>
+    <a href="https://imgur.com/G37MsuK"><img src="https://i.imgur.com/G37MsuK.png" title="source: imgur.com" width="30"/></a>
+    <a href="https://imgur.com/XpWPF0w"><img src="https://i.imgur.com/XpWPF0w.png" title="source: imgur.com" width="30"/></a>
+    <a href="https://imgur.com/YMGE85n"><img src="https://i.imgur.com/YMGE85n.png" title="source: imgur.com" width="30"/></a>
+    <a href="https://imgur.com/w9PULK5"><img src="https://i.imgur.com/w9PULK5.png" title="source: imgur.com" width="30"/></a>
+    <a href="https://imgur.com/hjuaEcF"><img src="https://i.imgur.com/hjuaEcF.png" title="source: imgur.com" width="30"/></a>
+    <a href="https://imgur.com/BhI5DBR"><img src="https://imgur.com/BhI5DBR.png" title="source: imgur.com" width="30"/></a>
+    <a href="https://imgur.com/krgaizW"><img src="https://imgur.com/krgaizW.png" title="source: imgur.com" width="30"/></a>
+    <a href="https://imgur.com/QAawp1J"><img src="https://imgur.com/QAawp1J.png" title="source: imgur.com" width="30"/></a>
+    <a href="https://imgur.com/hRwMM9n"><img src="https://imgur.com/hRwMM9n.png" title="source: imgur.com" width="30"/></a>
+    </a>
 
-    <a href="https://imgur.com/Xz2k5O8"><img src="https://i.imgur.com/Xz2k5O8.png" title="source: imgur.com" width="30"/></a>
 
-    <a href="https://imgur.com/9oZa9uU"><img src="https://imgur.com/9oZa9uU.png" title="source: imgur.com" width="30"/></a>
 
-    <a href="https://imgur.com/jWZzbvl"><img src="https://imgur.com/jWZzbvl.png" title="source: imgur.com" width="30"/></a>
 
-    <a href="https://imgur.com/O0PZyxN"><img src="https://i.imgur.com/O0PZyxN.png" title="source: imgur.com" width="30"/></a>
-
-    <a href="https://imgur.com/aa100eH"><img src="https://i.imgur.com/aa100eH.png" title="source: imgur.com" width="30"/></a>
-
-    <a href="https://imgur.com/Grlq9aN"><img src="https://i.imgur.com/Grlq9aN.png" title="source: imgur.com" width="30"/></a>
-
-    <a href="https://imgur.com/UYGpfR8"><img src="https://i.imgur.com/UYGpfR8.png" title="source: imgur.com" width="30"/></a>
-
-    <a href="https://imgur.com/G37MsuK"><img src="https://i.imgur.com/G37MsuK.png" title="source: imgur.com" width="30"/></a>
-
-    <a href="https://imgur.com/XpWPF0w"><img src="https://i.imgur.com/XpWPF0w.png" title="source: imgur.com" width="30"/></a>
-
-    <a href="https://imgur.com/YMGE85n"><img src="https://i.imgur.com/YMGE85n.png" title="source: imgur.com" width="30"/></a>
-
-    <a href="https://imgur.com/w9PULK5"><img src="https://i.imgur.com/w9PULK5.png" title="source: imgur.com" width="30"/></a>
-
-    <a href="https://imgur.com/hjuaEcF"><img src="https://i.imgur.com/hjuaEcF.png" title="source: imgur.com" width="30"/></a>
-
-    <a href="https://imgur.com/BhI5DBR"><img src="https://imgur.com/BhI5DBR.png" title="source: imgur.com" width="30"/></a>
-
-    <a href="https://imgur.com/krgaizW"><img src="https://imgur.com/krgaizW.png" title="source: imgur.com" width="30"/></a>
-
-    <a href="https://imgur.com/QAawp1J"><img src="https://imgur.com/QAawp1J.png" title="source: imgur.com" width="30"/></a>
-
-    <a href="https://imgur.com/hRwMM9n"><img src="https://imgur.com/hRwMM9n.png" title="source: imgur.com" width="30"/></a>
-
-    </a>
 ## <span style="display: inline-flex; align-items: center;"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="36" style="vertical-align: middle; margin-right: 10px;"> Demo Backup</span>
 
 
@@ -161,7 +145,7 @@ EMAIL_RECIPIENT=
 SENDER_EMAIL=
 API_URL=https://api.bitwarden.com             # Please No Modify No Touch
 IDENTITY_URL=https://identity.bitwarden.com   # Please No Modify No Touch
-ORGANIZATION_ID=232c1890-78f9-8888-b769-b14448888bf
+ORGANIZATION_ID=232c12220-78f9-q888-b769-a14ddd88bf
 ACCESS_TOKEN=0.50bf3g00-4fef-002b-a680-0000000000049.P1vlm2222222222bfiOUO:f3G1N40IoCVxNB4GtYJdmw==  #Access Token from Bitwarden Secrets Manager Ubuntu-Lazywarden Machine
 CRON_SCHEDULE="*/15 * * * *" # For Docker Compose 
 TIMEZONE=America/New_York    # For CalDAV and Todoist
@@ -706,10 +690,8 @@ docker compose up -d
 - If you like this project, please consider giving it a ⭐
 
 
-<div align="center">
-  <a href="https://imgur.com/k4VWmn7">
-    <img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" title="source: imgur.com" width="150" />
-  </a>
+<div style="text-align: center;">
+    <img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="150" />
 </div>
 
 
